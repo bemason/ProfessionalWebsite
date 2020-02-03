@@ -1,4 +1,4 @@
-baseurl = "http://www.bemason.org"
+baseurl = "https://www.bemason.org"
 title = "brooke mason"
 
 theme = "hugo-coder"
