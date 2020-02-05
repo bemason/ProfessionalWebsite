@@ -57,19 +57,19 @@ disqusShortname = "yourdiscussshortname"
 
 [[params.social]]
     name = "Github"
-    icon = "fab fa-github"
+    icon = "fab fa-github-2x"
     weight = 1
     url = "https://github.com/bemason/"
 [[params.social]]
     name = "LinkedIn"
-    icon = "fab fa-linkedin"
+    icon = "fab fa-linkedin-2x"
     weight = 2
     url = "https://www.linkedin.com/in/brookemason01/"
 [[params.social]]
-    name = "Email"
-    icon = "fas fa-envelope-square"
+    name = "Google Scholar"
+    icon = "ai ai-google-scholar-square ai-3x"
     weight = 3
-    url = "mailto:bemason@umich.edu"
+    url = "https://scholar.google.com/citations?hl=en&authuser=2&user=T1i4DTYAAAAJ"
 
 
 [languages]
