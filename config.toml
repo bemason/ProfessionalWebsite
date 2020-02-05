@@ -1,5 +1,5 @@
 baseurl = "https://www.bemason.org"
-title = "brooke mason"
+title = "brooke e mason"
 
 theme = "hugo-coder"
 
@@ -16,7 +16,7 @@ pygmentscodefencesguesssyntax = true
 disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "Brooke Mason"
+    author = "Brooke E. Mason"
     description = "Brooke Mason's personal website"
     keywords = "researcher, student, personal"
     info = "Ph.D. Candidate & Researcher"
