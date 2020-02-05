@@ -67,7 +67,7 @@ disqusShortname = "yourdiscussshortname"
     url = "https://www.linkedin.com/in/brookemason01/"
 [[params.social]]
     name = "Email"
-    icon = "fas fa-envelope-square-2x"
+    icon = "fas fa-envelope-square"
     weight = 3
     url = "mailto:bemason@umich.edu"
 
