@@ -45,7 +45,7 @@ disqusShortname = "yourdiscussshortname"
     maxSeeAlsoItems = 5
 
     # Custom CSS
-    custom_css = ["academicons.min.css"]
+    custom_css = []
     
     # Custom JS
     custom_js = []
@@ -67,7 +67,7 @@ disqusShortname = "yourdiscussshortname"
     url = "https://www.linkedin.com/in/brookemason01/"
 [[params.social]]
     name = "Google Scholar"
-    icon = "ai ai-google-scholar-square ai"
+    icon = "ai ai-google-scholar-square"
     weight = 3
     url = "https://scholar.google.com/citations?hl=en&authuser=2&user=T1i4DTYAAAAJ"
 [[params.social]]
