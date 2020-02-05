@@ -45,7 +45,7 @@ disqusShortname = "yourdiscussshortname"
     maxSeeAlsoItems = 5
 
     # Custom CSS
-    custom_css = ["css/academicons.css"]
+    custom_css = ["academicons-1.8.6/css/academicons.css"]
     
     # Custom JS
     custom_js = []
