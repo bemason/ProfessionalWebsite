@@ -71,9 +71,14 @@ disqusShortname = "yourdiscussshortname"
     weight = 3
     url = "https://scholar.google.com/citations?hl=en&authuser=2&user=T1i4DTYAAAAJ"
 [[params.social]]
+    name = "Research Gate"
+    icon = "ai ai-research-gate-square"
+    weight = 4
+    url = "https://www.researchgate.net/profile/Brooke_Mason3" 
+[[params.social]]
     name = "Email"
     icon = "fas fa-envelope-square"
-    weight = 4
+    weight = 5
     url = "mailto:bemason@umich.edu"
 
 [languages]
