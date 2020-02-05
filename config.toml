@@ -70,7 +70,11 @@ disqusShortname = "yourdiscussshortname"
     icon = "ai ai-google-scholar-square ai-3x"
     weight = 3
     url = "https://scholar.google.com/citations?hl=en&authuser=2&user=T1i4DTYAAAAJ"
-
+[[params.social]]
+    name = "Email"
+    icon = "fas fa-envelope-square-2x"
+    weight = 4
+    url = "mailto:bemason@umich.edu"
 
 [languages]
     [languages.en]
@@ -87,8 +91,4 @@ disqusShortname = "yourdiscussshortname"
             name = "Projects"
             weight = 2
             url = "projects/"
-
-            [[languages.en.menu.main]]
-            name = "Contact"
-            weight = 3
-            url = "mailto:bemason@umich.edu"
+            
