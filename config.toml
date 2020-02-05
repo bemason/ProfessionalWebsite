@@ -45,7 +45,7 @@ disqusShortname = "yourdiscussshortname"
     maxSeeAlsoItems = 5
 
     # Custom CSS
-    custom_css = ["academicons-1.8.6/css/academicons.css"]
+    custom_css = []
     
     # Custom JS
     custom_js = []
@@ -69,17 +69,12 @@ disqusShortname = "yourdiscussshortname"
     name = "Email"
     icon = "fas fa-envelope-square"
     weight = 3
-<<<<<<< HEAD
     url = "https://scholar.google.com/citations?hl=en&authuser=2&user=T1i4DTYAAAAJ"
 [[params.social]]
     name = "Email"
     icon = "fas fa-envelope-square-2x"
-    weight = 4
+    weight = 3
     url = "mailto:bemason@umich.edu"
-=======
-    url = "mailto:bemason@umich.edu"
-
->>>>>>> parent of be3e213... attempting to add google scholar link
 
 [languages]
     [languages.en]
@@ -96,4 +91,9 @@ disqusShortname = "yourdiscussshortname"
             name = "Projects"
             weight = 2
             url = "projects/"
+            
+            [[languages.en.menu.main]]
+            name = "CV"
+            weight = 3
+            url = "images/cv.pdf"
             
