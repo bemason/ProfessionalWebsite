@@ -3,7 +3,7 @@ title = "About Me"
 slug = "about"
 +++
 
-## Bio Statement
+<font color="08A1D9"> ## Bio Statement </font>
 As a first-generation college student, the desire to become a lifelong learner motivates me to acquire new skills and pursue challenging opportunities. My appetite for knowledge and a bricolage of experiences have transformed me from a liberal arts graduate into an engineer and researcher situated within the field of sustainability. Currently, I am a PhD Candidate in Civil Engineering, focusing on intelligent systems, at the University of Michigan. The field of intelligent systems is just starting to bloom, and with it, I, too, will bloom into a sustainably focused, intelligent water systems researcher and professor. 
 
 ## Dissertation Research Statement
