@@ -1,6 +1,7 @@
 +++
 title = "Projects"
 slug = "projects"
+tags = ["projects", "research", "contributions"]
 +++
 
 ## PySWMM Water Quality Toolbox
