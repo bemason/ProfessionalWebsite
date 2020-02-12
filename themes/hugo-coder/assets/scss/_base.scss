@@ -22,9 +22,9 @@ body {
   }
 }
 
-a {
+a:link {
   font-weight: 300;
-  color: $link-color;
+  color: #019ED7;
   text-decoration: none;
   &:focus,
   &:hover {
