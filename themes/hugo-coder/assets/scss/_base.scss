@@ -24,7 +24,7 @@ body {
 
 a:link {
   font-weight: 300;
-  color: #019ED7;
+  color: $link-color;
   text-decoration: none;
   &:focus,
   &:hover {
