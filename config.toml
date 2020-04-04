@@ -63,24 +63,29 @@ disqusShortname = "yourdiscussshortname"
     weight = 2
     url = "https://www.linkedin.com/in/brookemason01/"
 [[params.social]]
+    name = "Twitter"
+    icon = "fab fa-twitter"
+    weight = 3
+    url = "https://twitter.com/bemason13/"
+[[params.social]]
     name = "Google Scholar"
     icon = "ai ai-google-scholar-square"
-    weight = 3
+    weight = 4
     url = "https://scholar.google.com/citations?hl=en&authuser=2&user=T1i4DTYAAAAJ"
 [[params.social]]
     name = "Research Gate"
     icon = "ai ai-researchgate-square"
-    weight = 4
+    weight = 5
     url = "https://www.researchgate.net/profile/Brooke_Mason3" 
 [[params.social]]
     name = "orcid"
     icon = "ai ai-orcid-square"
-    weight = 4
+    weight = 6
     url = "https://orcid.org/0000-0001-5868-7026"    
 [[params.social]]
     name = "Email"
     icon = "fas fa-envelope-square"
-    weight = 6
+    weight = 7
     url = "mailto:bemason@umich.edu"
 
 [languages]
