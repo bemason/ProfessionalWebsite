@@ -20,7 +20,7 @@ disqusShortname = "yourdiscussshortname"
     description = "Brooke Mason's personal website"
     keywords = "researcher, student, personal"
     info = "Ph.D. Candidate & Researcher"
-    avatarurl = "images/ProfPic1.jpeg"
+    avatarurl = "images/ProfPic1.jpg"
     #footercontent = ""
 
     dateformat = "January 2, 2006"
