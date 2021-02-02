@@ -4,7 +4,7 @@ slug = "about"
 +++
 
 ## Bio Statement
-As a first-generation college student, the desire to become a lifelong learner motivates me to acquire new skills and pursue challenging opportunities. My appetite for knowledge and a bricolage of experiences have transformed me from a liberal arts graduate into an engineer and researcher situated within the field of sustainability. Currently, I am a Ph.D. Candidate in Civil Engineering, focusing on intelligent systems, at the [University of Michigan](https://cee.engin.umich.edu/). The field of intelligent systems is just starting to bloom, and with it, I, too, will bloom into a sustainably focused, intelligent water systems researcher. 
+As a first-generation college student, the desire to become a lifelong learner motivates me to acquire new skills and pursue challenging opportunities. My appetite for knowledge and a bricolage of experiences have transformed me from a liberal arts graduate into an engineer and researcher situated within the field of sustainability. Currently, I am a Ph.D. Candidate in Civil Engineering with a focus in Intelligent Systems at the [University of Michigan](https://cee.engin.umich.edu/). The field of intelligent systems is just starting to bloom, and with it, I, too, will bloom into a sustainably focused, intelligent water systems researcher. 
 
 ## Objective
 I am motivated to move society towards a more just and sustainable future. Through research, I seek to improve water management by enabling the next generation of autonomous water systems by combining domain knowledge from computing, data science, machine learning, and control theory. Through service, I work to improve diversity, equity, and inclusion at my institution and in my community.
