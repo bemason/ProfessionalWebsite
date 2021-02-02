@@ -24,7 +24,7 @@ As a first-generation college student, the desire to become a lifelong learner m
 * Developing an interdisciplinary, integrated systems framework for autonomous water system.
 * Improving the ability of water system managers to make informed decisions by providing real-time monitoring and control capabilities.
 
- General Research Interests
+# General Research Interests
 * Intelligent stormwater systems
 * Sensing & control for water quality
 * Data-driven policy
