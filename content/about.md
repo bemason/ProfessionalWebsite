@@ -15,7 +15,6 @@ I am motivated to move society towards a more just and sustainable future. Throu
 * Data-driven policy
 * Sustainability
 * Diversity in STEM/engineering
-* * * 
 
 ## Research Overview
 **Introduction**
