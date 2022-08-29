@@ -21,6 +21,6 @@ Autonomous water systems are promising to transform watershed management, but no
 *Completed*
 Studies have shown inconsistent nutrient removal in green infrastructure, particularly in bioretention systems. One potential solution is real-time control, which has been shown to improve pollutant removal in grey infrastructure. Since few studies have investigated this potential solution for green infrastructure, I simulated pollutant treatment in a real-time controlled bioretention cell using *StormReactor*. The results suggest real-time control may provide a “digital” alternative to existing, passive upgrades, like soil amendments, for boosting pollutant treatment. More details on this work can be found in a recently published [article](https://www.tandfonline.com/doi/abs/10.1080/1573062X.2022.2108464) in the Urban Water Journal.
 
-## Water Quality Sampling Nodes
+## Water quality sampling nodes
 *Completed*
 I collaborated with the [Huron River Watershed Council](https://www.hrwc.org/) on a surface water quality monitoring project. Brooke developed a small, low-cost, data node to collect real-time data, make automated decisions, and allow for remote triggering of the samplers. The node sends data to a dashboard allowing a team to monitor the depth of water in the stream/creek, along with sampler information. In manual mode, the team can simply tap a “trigger” button on the dashboard to order a sample.
