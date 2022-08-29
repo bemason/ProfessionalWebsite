@@ -11,7 +11,8 @@ I am motivated to move society towards a more just and sustainable future. Throu
 
 ## General Research Interests
 * Autonomous stormwater systems
-* Sensing & control for water quality
+* Real-time monitoring and control
+* Improving modeling capabilities
 * Data-driven policy
 * Sustainability
 * Environmental justice
@@ -19,7 +20,7 @@ I am motivated to move society towards a more just and sustainable future. Throu
 ## Research Overview
 **Introduction**
 * I work with [Branko Kerkez](https://cee.engin.umich.edu/people/branko-kerkez/) in the [Real-Time Water Systems Lab](http://www-personal.umich.edu/~bkerkez/).
-* In the era of the self-driving car, my goal is to bring the same technologies to water and environmental conservation. Specifically, I am focused on reducing stormwater pollution, which is recognized as one of our greatest environmental and social challenges. My research combines domain knowledge from environmental engineering, computing, data science, signal processing, and control theory to enable the next generation of autonomous water systems and move society towards a more just and sustainable future. 
+* To manage stormwater and its pollutants without exponential costs, we can leverage recent technological advances, such as sensors and real-time data algorithms, to enable the next generation of autonomous water systems.
 
 **Intellectual Merit**
 * Coordinated, autonomous stormwater systems will use sensors and actuators to adapt watersheds to individual storms, reducing flooding and maximizing treatment through real-time monitoring and control at the system-scale. 
@@ -28,7 +29,7 @@ I am motivated to move society towards a more just and sustainable future. Throu
 **Research Objectives**
 1. No computational toolchains existed to evaluate the potential of autonomous water systems due to the overlapping need to model flow, water quality, and controls. To address this need, I built an open-source Python package, StormReactor, which couples the popular EPA’s Stormwater Management Model with a new generation water quality module. *(Completed)*
 2. Partnering with the Detroit Sierra Club, I developed an “Internet of Things” stormwater infrastructure sensing network using open-source solutions to monitor flooding in Detroit. A network of 20+ sensor nodes has created the largest dataset of stormwater infrastructure performance to date, shedding a light on stormwater dynamics at an unprecedented spatial and temporal scale. *(Underway)*
-3. Although autonomous control can mitigate flooding and particulate pollutants, it has not yet been evaluated for other water quality parameters. Unfortunately, the application of control theory for water quality is not yet feasible due to the nonlinearities inherent in most stormwater models. To address this limitation, I am formulating a water quality control model for the system-level control of stormwater networks. *(Underway)*
+3. Real-time flood inundation modeling is critical for informing citizens and emergency services during flash flood conditions. To that end, I am combining my lab's open-source sensor data, USGS stream gauge data, and publicly accessible GIS datasets to develop a real-time flood inundation model for southeast Michigan. *(Underway)*
 
 **Broader Impacts**
 * Developing an interdisciplinary, integrated systems framework for autonomous water system.
