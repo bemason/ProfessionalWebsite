@@ -63,11 +63,6 @@ disqusShortname = "yourdiscussshortname"
     weight = 2
     url = "https://www.linkedin.com/in/brookemason01/"
 [[params.social]]
-    name = "Twitter"
-    icon = "fab fa-twitter"
-    weight = 3
-    url = "https://twitter.com/bemason13/"
-[[params.social]]
     name = "Google Scholar"
     icon = "ai ai-google-scholar-square"
     weight = 4
